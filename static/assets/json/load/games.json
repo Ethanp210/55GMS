@@ -91,7 +91,7 @@
   },
   {
     "name": "Archery World Tour",
-    "url": "/misc/play/archerworldtour.html",
+    "url": "/misc/play/archeryworldtour.html",
     "image": "/misc/archeryWorldTour/img.webp?v=1",
     "usesProxy": false
   },
@@ -978,6 +978,12 @@
     "usesProxy": false
   },
   {
+    "name": "Fury Wars",
+    "url": "/misc/play/furywars.html",
+    "image": "/misc/furywars/img.webp",
+    "usesProxy": false
+  },
+  {
     "name": "Pokemon Sapphire",
     "url": "/misc/play/pokemonS.html",
     "image": "/misc/emulator/pokemon/sapphire/psapphire.jpeg",
@@ -1057,9 +1063,9 @@
   },
   {
     "name": "Retro Bowl College",
-    "url": "https://classroomjq.github.io/retro-bowl-college/",
+    "url": "/misc/play/retrobowlcollege.html",
     "image": "/misc/retrobowlcollege/img.png",
-    "usesProxy": true
+    "usesProxy": false
   },
   {
     "name": "Riddle School",
@@ -1546,6 +1552,12 @@
     "url": "https://deadshot.io/",
     "image": "/img/games/deadshot.webp",
     "usesProxy": true
+  },
+  {
+    "name": "Zombie Derby",
+    "url": "/misc/play/zombiederby.html",
+    "image": "/misc/zombiederby/img.webp",
+    "usesProxy": false
   },
   {
     "name": "GBA Games",
